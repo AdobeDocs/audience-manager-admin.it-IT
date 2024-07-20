@@ -8,15 +8,15 @@ exl-id: 1f8ccbf3-241d-4bd9-8c35-cf68b12d2713
 source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 12%
+ht-degree: 0%
 
 ---
 
 # Esempi di macro per il formato HTTP {#http-format-macro-examples}
 
-Esempi di alcuni tipi di uso comune [!DNL HTTP] macro.
+Esempi di alcune combinazioni di macro [!DNL HTTP] comunemente utilizzate.
 
-Consulta la [Macro per il formato HTTP](../formats/web-formats.md) per un elenco delle macro e delle relative definizioni.
+Per un elenco delle macro e delle relative definizioni, vedere [Macro in formato HTTP](../formats/web-formats.md).
 
 <table id="table_D5FAC5D056ED49D79FA883197EF8F42E"> 
  <thead> 

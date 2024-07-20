@@ -8,7 +8,7 @@ exl-id: c1ac1d7c-84d4-44f0-a3b1-105078947dbc
 source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 8%
+ht-degree: 0%
 
 ---
 
@@ -18,9 +18,9 @@ Visualizza o modifica contenitori e mappature per provider di dati di prime part
 
 <!-- t_first_party_providers.xml -->
 
-1. Clic **[!UICONTROL Companies]**, quindi individuare e fare clic sulla società desiderata per visualizzare [!UICONTROL Profile] pagina. Utilizza il [!UICONTROL Search] o i controlli di impaginazione nella parte inferiore dell&#39;elenco per individuare la società desiderata. Puoi ordinare ogni colonna in ordine crescente o decrescente facendo clic sull’intestazione della colonna desiderata.
+1. Fai clic su **[!UICONTROL Companies]**, quindi individua e fai clic sulla società desiderata per visualizzarne la pagina [!UICONTROL Profile]. Utilizzare la casella [!UICONTROL Search] o i controlli di impaginazione nella parte inferiore dell&#39;elenco per trovare la società desiderata. Puoi ordinare ogni colonna in ordine crescente o decrescente facendo clic sull’intestazione della colonna desiderata.
 
-1. Fai clic su **[!UICONTROL First Party Data Providers]** scheda.
+1. Fare clic sulla scheda **[!UICONTROL First Party Data Providers]**.
 
    ![](assets/first_party_providers.png)
 
@@ -28,5 +28,5 @@ Visualizza o modifica contenitori e mappature per provider di dati di prime part
 
    ![Risultato passaggio](assets/first_party_providers_edit.png)
 
-1. Sposta i contenitori da **[!UICONTROL Available Containers]** e **[!UICONTROL Selected Containers for This Data Provider]** seleziona i contenitori desiderati, quindi fai clic sulle frecce destra o sinistra, a seconda delle necessità.
-1. Clic **[!UICONTROL Save]** se hai apportato modifiche.
+1. Spostare i contenitori dagli elenchi **[!UICONTROL Available Containers]** e **[!UICONTROL Selected Containers for This Data Provider]** selezionando i contenitori desiderati, quindi facendo clic sulle frecce destra o sinistra, a seconda delle necessità.
+1. Fare clic su **[!UICONTROL Save]** se sono state apportate modifiche.

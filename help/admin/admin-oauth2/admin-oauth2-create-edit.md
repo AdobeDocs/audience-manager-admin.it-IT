@@ -7,14 +7,14 @@ uuid: 3e654053-fb2f-4d8f-a53c-b5c3b8dbdaaa
 exl-id: 993eae04-02e8-4554-a6fe-cf599053bfc9
 source-git-commit: 79415eba732c2a6d50f04124774664f788ccc78c
 workflow-type: tm+mt
-source-wordcount: '555'
-ht-degree: 1%
+source-wordcount: '550'
+ht-degree: 0%
 
 ---
 
 # Client OAuth2 {#oauth-clients}
 
-Utilizza il [!UICONTROL OAuth2 Clients] pagina per visualizzare un elenco di [!UICONTROL OAuth2] client nel tuo [!DNL Audience Manager] configurazione. È possibile modificare o eliminare i client esistenti o crearne di nuovi, purché siano stati assegnati i ruoli utente appropriati.
+Utilizzare la pagina [!UICONTROL OAuth2 Clients] per visualizzare un elenco di [!UICONTROL OAuth2] client nella configurazione di [!DNL Audience Manager]. È possibile modificare o eliminare i client esistenti o crearne di nuovi, purché siano stati assegnati i ruoli utente appropriati.
 
 ## Panoramica {#overview}
 
@@ -22,47 +22,46 @@ Utilizza il [!UICONTROL OAuth2 Clients] pagina per visualizzare un elenco di [!U
 
 >[!NOTE]
 >
->Assicurati che il cliente legga [OAuth2](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/rest-apis/aam-api-getting-started.html#oauth) nella Guida utente di Audience Manager.
+>Assicurati che il cliente legga la documentazione di [OAuth2](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/rest-apis/aam-api-getting-started.html#oauth) nella Guida utente di Audience Manager.
 
-[!DNL OAuth2] è uno standard aperto per l&#39;autorizzazione a fornire accesso delegato protetto a [!DNL Audience Manager] risorse per conto di un proprietario di risorse.
+[!DNL OAuth2] è uno standard aperto per l&#39;autorizzazione a fornire accesso delegato protetto alle risorse [!DNL Audience Manager] per conto di un proprietario di risorse.
 
 ![](assets/oauth.png)
 
 Puoi ordinare ogni colonna in ordine crescente o decrescente facendo clic sull’intestazione della colonna desiderata.
 
-Utilizza il [!UICONTROL Search] o i controlli di impaginazione nella parte inferiore dell&#39;elenco per trovare il client desiderato.
+Utilizzare la casella [!UICONTROL Search] o i controlli di impaginazione nella parte inferiore dell&#39;elenco per trovare il client desiderato.
 
 ## Creare o modificare un client OAuth2 {#create-edit-client}
 
 <!-- t_create_edit_auth.xml -->
 
-Utilizza il [!UICONTROL OAuth2 Clients] pagina nell’Audience Manager [!UICONTROL Admin] strumento per creare un nuovo [!UICONTROL Oauth2] o per modificare un client esistente.
+Utilizzare la pagina [!UICONTROL OAuth2 Clients] nello strumento [!UICONTROL Admin] di Audience Manager per creare un nuovo client [!UICONTROL Oauth2] o per modificare un client esistente.
 
-1. Per creare un nuovo [!UICONTROL OAuth2] client, fai clic su **[!UICONTROL OAuth2 Clients]** > **[!UICONTROL Add OAuth2 Client]**. Per modificare un [!UICONTROL OAuth2] , fare clic sul client desiderato nella **[!UICONTROL Client ID]** colonna.
-1. Specifica il nome desiderato [!UICONTROL OAuth2] client. Tieni presente che questo è un nome solo per il record.
-1. Specifica la [!UICONTROL OAuth2] indirizzo e-mail del cliente. Esiste un limite di un indirizzo e-mail.
-1. Dalla sezione **[!UICONTROL Partner]** selezionare il partner desiderato.
-1. In **[!UICONTROL Client ID]** , specifica l’ID desiderato. Questo è il valore utilizzato per l’invio [!DNL API] richieste. Il prefisso si compila automaticamente quando si inizia a digitare dopo aver scelto un [!UICONTROL Partner] dall’elenco a discesa nel passaggio precedente. Il formato corretto è &lt; *`partner subdomain`*> - &lt; *`Audience Manager username`*>.
-1. Seleziona o deseleziona la **[!UICONTROL Restrict to Partner Users]** , come desiderato. Se questa casella di controllo è selezionata, l&#39;utente deve essere un [!DNL Audience Manager] utente elencato per il partner selezionato. Come best practice, è consigliabile selezionare questa opzione.
-1. In **[!UICONTROL Scope]** sezione, seleziona o deseleziona la **[!UICONTROL Read]** e **[!UICONTROL Write]** caselle di controllo, come desiderato.
-1. In **[!UICONTROL Grant Type]** , selezionare il mezzo di autorizzazione desiderato. È consigliabile utilizzare le impostazioni predefinite di [!UICONTROL Password] e [!UICONTROL Refresh-token] opzioni.
+1. Per creare un nuovo client [!UICONTROL OAuth2], fare clic su **[!UICONTROL OAuth2 Clients]** > **[!UICONTROL Add OAuth2 Client]**. Per modificare un client [!UICONTROL OAuth2] esistente, fare clic sul client desiderato nella colonna **[!UICONTROL Client ID]**.
+1. Specificare il nome desiderato per il client [!UICONTROL OAuth2]. Tieni presente che questo è un nome solo per il record.
+1. Specificare l&#39;indirizzo di posta elettronica del client [!UICONTROL OAuth2]. Esiste un limite di un indirizzo e-mail.
+1. Selezionare il partner desiderato dall&#39;elenco a discesa **[!UICONTROL Partner]**.
+1. Nella casella **[!UICONTROL Client ID]**, specifica l&#39;ID desiderato. Questo è il valore utilizzato per l&#39;invio di [!DNL API] richieste. Il prefisso si compila automaticamente quando si inizia a digitare dopo aver scelto un [!UICONTROL Partner] dall&#39;elenco a discesa nel passaggio precedente. Il formato corretto è &lt; *`partner subdomain`*> - &lt; *`Audience Manager username`*>.
+1. Selezionare o deselezionare la casella di controllo **[!UICONTROL Restrict to Partner Users]**, come desiderato. Se questa casella di controllo è selezionata, l&#39;utente deve essere un utente [!DNL Audience Manager] elencato per il partner selezionato. Come best practice, è consigliabile selezionare questa opzione.
+1. Nella sezione **[!UICONTROL Scope]** selezionare o deselezionare le caselle di controllo **[!UICONTROL Read]** e **[!UICONTROL Write]**, come desiderato.
+1. Nella sezione **[!UICONTROL Grant Type]** selezionare il mezzo desiderato per l&#39;autorizzazione. È consigliabile utilizzare le impostazioni predefinite delle opzioni [!UICONTROL Password] e [!UICONTROL Refresh-token].
 
-   * **[!UICONTROL Implicit]**: se selezioni questa opzione, il [!UICONTROL Redirect URI] è attivato. L’utente riceve un token di accesso automatico dopo l’autenticazione e viene inviato immediatamente al reindirizzamento [!DNL URI].
-   * **[!UICONTROL Authorization Code]**: se selezioni questa opzione, il [!UICONTROL Redirect URI] è attivato. L’utente viene restituito al client dopo essere stato autenticato e quindi inviato al reindirizzamento [!DNL URI].
-   * **[!UICONTROL Password]**: l’utente viene autenticato con una password inserita dall’utente anziché con un tentativo di convalida automatica tramite un server di autorizzazione.
+   * **[!UICONTROL Implicit]**: se si seleziona questa opzione, la casella [!UICONTROL Redirect URI] è abilitata. L&#39;utente riceve un token di accesso automatico dopo l&#39;autenticazione e viene immediatamente inviato al reindirizzamento [!DNL URI].
+   * **[!UICONTROL Authorization Code]**: se si seleziona questa opzione, la casella [!UICONTROL Redirect URI] è abilitata. L&#39;utente viene restituito al client dopo essere stato autenticato e quindi inviato al reindirizzamento [!DNL URI].
+   * **[!UICONTROL Password]**: l&#39;utente è autenticato con una password inserita dall&#39;utente anziché con un tentativo di convalida automatica tramite un server di autorizzazione.
    * **[!UICONTROL Refresh_token]**: utilizzato per aggiornare un token di accesso scaduto per un periodo di tempo prolungato.
 
-1. In **[!UICONTROL Redirect URI]** , specificare il valore desiderato [!DNL URI]. Questa opzione è abilitata solo se selezioni **[!UICONTROL Implicit]** e **[!UICONTROL Authorization_code]** tipi di sovvenzione. Il **[!UICONTROL Redirect URI]** consente di specificare un valore separato da virgole di accettabile [!DNL URI] valori. Questo è il [!DNL URI] l&#39;utente di un client viene reindirizzato a dopo l&#39;approvazione del client per [!DNL API] accesso.
+1. Nella casella **[!UICONTROL Redirect URI]**, specificare [!DNL URI] desiderato. Questa opzione è abilitata solo se si selezionano i tipi di concessione **[!UICONTROL Implicit]** e **[!UICONTROL Authorization_code]**. La casella **[!UICONTROL Redirect URI]** consente di specificare un valore separato da virgole di valori [!DNL URI] accettabili. Questo è [!DNL URI] a cui un utente di un client viene reindirizzato dopo aver approvato il client per l&#39;accesso [!DNL API].
 1. Specifica il tempo di scadenza (in secondi) desiderato per l’accesso e la scadenza del token di aggiornamento.
 
    * **[!UICONTROL Access Token Expiration Time]**: numero di secondi di validità di un token di accesso dopo il rilascio. Può essere null per utilizzare il valore predefinito della piattaforma (12 ore). Inoltre, può essere -1 per indicare che il token di accesso non scade.
-   * **[!UICONTROL Refresh Token Expiration Time]**: numero di secondi di validità di un token di aggiornamento dopo l’emissione. Può essere null per utilizzare il valore predefinito della piattaforma (30 giorni).
+   * **[!UICONTROL Refresh Token Expiration Time]**: numero di secondi di validità di un token di aggiornamento dopo l&#39;emissione. Può essere null per utilizzare il valore predefinito della piattaforma (30 giorni).
 
-1. Clic **[!UICONTROL Save]**.
+1. Fare clic su **[!UICONTROL Save]**.
 
-Per eliminare un [!UICONTROL OAuth2] client, fai clic su **[!UICONTROL OAuth2 Clients]**, quindi fai clic su  ![](assets/icon_delete.png) nel **[!UICONTROL Actions]** per il client desiderato.
+Per eliminare un client [!UICONTROL OAuth2], fare clic su **[!UICONTROL OAuth2 Clients]**, quindi su ![](assets/icon_delete.png) nella colonna **[!UICONTROL Actions]** per il client desiderato.
 
 >[!MORELIKETHIS]
 >
 >* [Raccomandazioni e requisiti per l’utilizzo delle API](../admin-oauth2/aam-admin-api-requirements.md)
-

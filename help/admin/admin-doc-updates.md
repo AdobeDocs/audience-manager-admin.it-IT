@@ -7,7 +7,7 @@ uuid: 1c02dff5-8e3f-42bf-a50c-03b75e121ac7
 exl-id: 8221b4df-99c2-47d3-a2ea-186a701a2b20
 source-git-commit: 1f4dbf8f7b36e64c3015b98ef90b6726d0e7495a
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '583'
 ht-degree: 94%
 
 ---
@@ -16,16 +16,16 @@ ht-degree: 94%
 
 Tutti gli aggiornamenti (informazioni aggiunte, eliminate e corrette) della Guida per l’amministrazione di Audience Manager, ordinati per data.
 
-Per informazioni sulle versioni con nuove funzioni, correzioni di bug e miglioramenti, consulta le [note sulla versione di Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en). Per [!DNL Audience Manager] modifiche alla documentazione, consulta [Aggiornamenti alla documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/documentation-updates/docs-2019.html?lang=en).
+Per informazioni sulle versioni con nuove funzioni, correzioni di bug e miglioramenti, consulta le [note sulla versione di Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en). Per [!DNL Audience Manager] modifiche alla documentazione, vedi [Aggiornamenti alla documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/documentation-updates/docs-2019.html?lang=en).
 
-## Aggiornamenti alla documentazione di AAM 2019 {#aam-2019-docs-updates}
+## Aggiornamenti alla documentazione AAM 2019 {#aam-2019-docs-updates}
 
 | Argomento | Descrizione |
 |--- |--- |
 | Macro per il formato HTTP | Sono stati aggiunti una nuova macro, `REGION_ID_LIST`, e tre nuovi campi per la macro `USER_LIST`: `sda`, `sda` e `sda`. |
 | Macro per il formato HTTP | Sono state aggiunte due nuove macro: `ECID` e `MCID`. |
 
-## Aggiornamenti alla documentazione di AAM 2018 {#aam-2018-docs-updates}
+## Aggiornamenti alla documentazione AAM 2018 {#aam-2018-docs-updates}
 
 <!-- c_doc_updates.xml -->
 
@@ -52,7 +52,7 @@ Per informazioni sulle versioni con nuove funzioni, correzioni di bug e migliora
  </tbody> 
 </table>
 
-## Aggiornamenti alla documentazione di AAM 2017 {#aam-2017-docs-updates}
+## Aggiornamenti alla documentazione AAM 2017 {#aam-2017-docs-updates}
 
 <table id="table_81D2DA9293A9417085C630D00A7C96E1"> 
  <thead> 
@@ -105,7 +105,7 @@ Per informazioni sulle versioni con nuove funzioni, correzioni di bug e migliora
  </tbody> 
 </table>
 
-## Aggiornamenti alla documentazione di AAM 2016 {#aam-2016-docs-updates}
+## Aggiornamenti alla documentazione AAM 2016 {#aam-2016-docs-updates}
 
 <table id="table_E9D9810EA8244B58A4F27D56CFE521FD"> 
  <thead> 
@@ -145,7 +145,7 @@ Per informazioni sulle versioni con nuove funzioni, correzioni di bug e migliora
  </tbody> 
 </table>
 
-## Aggiornamenti alla documentazione di AAM 2015 {#aam-2015-docs-updates}
+## Aggiornamenti alla documentazione AAM 2015 {#aam-2015-docs-updates}
 
 <table id="table_90F524BAAED44A45A1F6BF8BBA9F26F9"> 
  <thead> 
@@ -162,7 +162,7 @@ Per informazioni sulle versioni con nuove funzioni, correzioni di bug e migliora
  </tbody> 
 </table>
 
-## Aggiornamenti alla documentazione di AAM 2014 {#aam-2014-docs-updates}
+## Aggiornamenti alla documentazione AAM 2014 {#aam-2014-docs-updates}
 
 <table id="table_FA9962E19248418BA73D5A794A378C9D"> 
  <thead> 

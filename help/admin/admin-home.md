@@ -7,8 +7,8 @@ uuid: 4534b622-4c8d-4c42-8019-1614faaba9d6
 exl-id: 27316802-9c98-41f5-af3e-edc11e572e29
 source-git-commit: e12731066834df18b44e6737fe8c1264d316f7fd
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 75%
+source-wordcount: '182'
+ht-degree: 83%
 
 ---
 
@@ -18,7 +18,7 @@ Lo strumento di amministrazione di Audience Manager consente di aggiungere e con
 
 >[!IMPORTANT]
 >
-> Il pubblico per questo archivio della documentazione è composto da dipendenti interni agli Adobi. Se sei un cliente Audience Manager, accedi al [Panoramica della guida di Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html).
+> Il pubblico per questo archivio della documentazione è composto da dipendenti interni agli Adobi. Se sei un cliente Audience Manager, passa alla [panoramica della guida Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html).
 
 <table id="table_882B0982144442F79328A4FA45BD5C7E" frame="none"> 
  <tbody> 

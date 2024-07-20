@@ -8,12 +8,12 @@ exl-id: f40a1efb-df27-483f-999a-ef19c8eead87
 source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
 workflow-type: tm+mt
 source-wordcount: '179'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
 # Panoramica dei formati {#formats-overview}
 
-Un formato è un modello (o file) salvato che utilizza macro per organizzare il contenuto dei dati inviati a una destinazione. I tipi di formato includono [!DNL HTTP] formati e formati di file. [!DNL HTTP] i formati inviano i dati in una [!DNL JSON] oggetto con [!DNL POST] o [!DNL GET] metodo. I formati di file inviano i dati in un file tramite [!DNL FTP]. Le macro utilizzate da ciascun formato consentono di impostare i nomi dei file, definire le intestazioni dei file e organizzare il contenuto di un file di dati. In Admin [!DNL UI], è possibile creare, salvare e riutilizzare i formati durante la configurazione delle destinazioni per i clienti.
+Un formato è un modello (o file) salvato che utilizza macro per organizzare il contenuto dei dati inviati a una destinazione. I tipi di formato includono [!DNL HTTP] formati e formati di file. I formati [!DNL HTTP] inviano dati in un oggetto [!DNL JSON] con un metodo [!DNL POST] o [!DNL GET]. I formati di file inviano i dati in un file da [!DNL FTP]. Le macro utilizzate da ciascun formato consentono di impostare i nomi dei file, definire le intestazioni dei file e organizzare il contenuto di un file di dati. In Admin [!DNL UI] è possibile creare, salvare e riutilizzare i formati durante la configurazione delle destinazioni per i clienti.
 
 ![](assets/formats.png)

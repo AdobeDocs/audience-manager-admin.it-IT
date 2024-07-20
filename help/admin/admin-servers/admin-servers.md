@@ -8,16 +8,16 @@ exl-id: edcca715-581f-415f-bc72-b1f1273ec807
 source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
 workflow-type: tm+mt
 source-wordcount: '107'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
 # Panoramica dei server {#servers-overview}
 
-Utilizza il [!UICONTROL Servers] per visualizzare un elenco di server nella configurazione dell’Audience Manager. È possibile modificare o eliminare server esistenti o crearne di nuovi, purché siano stati assegnati i ruoli utente appropriati.
+Utilizzare la pagina [!UICONTROL Servers] per visualizzare un elenco di server nella configurazione di Audience Manager. È possibile modificare o eliminare server esistenti o crearne di nuovi, purché siano stati assegnati i ruoli utente appropriati.
 
 <!-- c_servers.xml -->
 
 ![](assets/servers.png)
 
-Puoi ordinare ogni colonna in ordine crescente o decrescente facendo clic sull’intestazione della colonna desiderata. Utilizza il [!UICONTROL Search] o i controlli di impaginazione nella parte inferiore dell&#39;elenco per trovare il server desiderato.
+Puoi ordinare ogni colonna in ordine crescente o decrescente facendo clic sull’intestazione della colonna desiderata. Utilizzare la casella [!UICONTROL Search] o i controlli di impaginazione nella parte inferiore dell&#39;elenco per trovare il server desiderato.

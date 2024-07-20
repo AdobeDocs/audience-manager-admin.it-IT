@@ -2,25 +2,25 @@
 description: Utilizza la registrazione di audit come primo passo per eseguire il debug dei problemi dei clienti.
 seo-description: Use Audit Logging as a first place to go when debugging customer issues.
 seo-title: Audit Logging
-title: Registrazione dei dati di audit
+title: Registrazione dei controlli
 uuid: null
 exl-id: ff68f90f-b521-4560-9bf6-a7a6a588adf9
 source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
 workflow-type: tm+mt
 source-wordcount: '51'
-ht-degree: 7%
+ht-degree: 0%
 
 ---
 
-# Registrazione dei dati di audit {#audit-logging}
+# Registrazione dei controlli {#audit-logging}
 
-Utilizzare [!UICONTROL  Audit Logging] come primo punto da seguire per il debug dei problemi dei clienti.
+Utilizza [!UICONTROL  Audit Logging] come primo punto da cui partire quando esegui il debug dei problemi dei clienti.
 
 >[!NOTE]
 >
->Il [!UICONTROL Audit Logging] La funzionalità e la documentazione sono attualmente in fase di sviluppo e soggette a modifiche. Segnala eventuali problemi riscontrati in [!DNL JIRA] ([!DNL UI] team).
+>La funzionalità e la documentazione di [!UICONTROL Audit Logging] sono attualmente in fase di sviluppo e soggette a modifiche. Segnala eventuali problemi riscontrati in [!DNL JIRA] ([!DNL UI] team).
 
-![Visualizzazione registrazione di controllo](assets/audit-logging-img.png)
+![Visualizzazione registrazione controllo](assets/audit-logging-img.png)
 
 <!-- 
 
