@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Registrazione dei controlli {#audit-logging}
 
-Utilizza [!UICONTROL  Audit Logging] come primo punto da cui partire quando esegui il debug dei problemi dei clienti.
+Utilizza [!UICONTROL &#x200B; Audit Logging] come primo punto da cui partire quando esegui il debug dei problemi dei clienti.
 
 >[!NOTE]
 >
