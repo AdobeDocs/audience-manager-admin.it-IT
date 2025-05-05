@@ -26,7 +26,7 @@ Utilizzare la pagina [!UICONTROL Servers] nello strumento di amministrazione Aud
 
    >[!NOTE]
    >
-   >Come best practice, si consiglia di utilizzare [!DNL Amazon S3] come metodo per ottenere file da e consegnarli ai partner. [!DNL Amazon S3] fornisce una semplice interfaccia per i servizi Web che può essere utilizzata per archiviare e recuperare qualsiasi quantità di dati, in qualsiasi momento, da qualsiasi punto del Web. Per ulteriori informazioni, vedere [About Amazon S3](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/amazon-s3.html) in *Audience Manager User Guide*.
+   >Come best practice, si consiglia di utilizzare [!DNL Amazon S3] come metodo per ottenere file da e consegnarli ai partner. [!DNL Amazon S3] fornisce una semplice interfaccia per i servizi Web che può essere utilizzata per archiviare e recuperare qualsiasi quantità di dati, in qualsiasi momento, da qualsiasi punto del Web. Per ulteriori informazioni, vedere [About Amazon S3](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/amazon-s3.html?lang=it) in *Audience Manager User Guide*.
 
 1. Compila i campi:
 

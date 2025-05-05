@@ -18,7 +18,7 @@ Accedi a Adobe Audience Manager Admin Tool con il browser Web. Lo strumento di a
 
 >[!IMPORTANT]
 >
-> Il pubblico per questo archivio della documentazione è composto da dipendenti interni agli Adobi. Se sei un cliente Audience Manager, passa alla [panoramica della guida Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html)
+> Il pubblico per questo archivio della documentazione è composto da dipendenti interni agli Adobi. Se sei un cliente Audience Manager, passa alla [panoramica della guida Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=it)
 
 <!-- t_login.xml -->
 

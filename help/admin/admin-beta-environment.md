@@ -44,7 +44,7 @@ Per eseguire il provisioning di [!DNL S3] bucket per i dati in entrata:
 
 >[!NOTE]
 >
->Si sconsiglia l&#39;utilizzo di [!DNL FTP/SFTP] e si incoraggia l&#39;utilizzo di [!UICONTROL Amazon S3]. I motivi per cui si incoraggia l&#39;utilizzo di [!UICONTROL Amazon S3] sono elencati in [Amazon S3:About](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/amazon-s3.html).
+>Si sconsiglia l&#39;utilizzo di [!DNL FTP/SFTP] e si incoraggia l&#39;utilizzo di [!UICONTROL Amazon S3]. I motivi per cui si incoraggia l&#39;utilizzo di [!UICONTROL Amazon S3] sono elencati in [Amazon S3:About](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/amazon-s3.html?lang=it).
 
 ## Accedere al DCS nell’ambiente Beta {#access-dcs-beta-environment}
 
