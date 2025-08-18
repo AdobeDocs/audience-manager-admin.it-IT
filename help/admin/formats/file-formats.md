@@ -105,7 +105,7 @@ Macro utilizzate solo nelle righe di dati. Per esempi, vedere [Esempi di macro p
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <code>CLOSE_CURLY_BRACKET</code> </p> </td> 
-   <td colname="col2"> <p>Inserisce una parentesi graffa chiusa <code>}</code>. </p> </td> 
+   <td colname="col2"> <p>Inserisce una parentesi graffa chiusa <code>&rbrace;</code>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>COMMA</code> </p> </td> 
@@ -137,7 +137,7 @@ Macro utilizzate solo nelle righe di dati. Per esempi, vedere [Esempi di macro p
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>OPEN_CURLY_BRACKET</code> </p> </td> 
-   <td colname="col2"> <p>Inserisce una parentesi graffa aperta <code>{</code>. </p> </td> 
+   <td colname="col2"> <p>Inserisce una parentesi graffa aperta <code>&lbrace;</code>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>OPT_OUT</code> </p> </td> 

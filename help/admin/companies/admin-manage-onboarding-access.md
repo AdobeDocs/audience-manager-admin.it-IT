@@ -14,7 +14,7 @@ ht-degree: 0%
 >[!IMPORTANT]
 >
 > Il pubblico per questa pagina è composto da dipendenti interni ad Adobe. Se sei un cliente di Audience Manager che richiede una mappatura di origine dati di seconde parti come descritto in questa pagina, contatta l’Assistenza clienti o il tuo Technical Account Manager.
-> > Non è necessario per richiedere la mappatura per le relazioni di condivisione dei dati esistenti. Inoltre, la mappatura non è necessaria quando si inseriscono dati in origini dati di destinazione che appartengono al tuo PID.
+> &#x200B;> Non è necessario per richiedere la mappatura per le relazioni di condivisione dei dati esistenti. Inoltre, la mappatura non è necessaria quando si inseriscono dati in origini dati di destinazione che appartengono al tuo PID.
 
 Per evitare l’onboarding accidentale di file e dati nelle origini dati di destinazione di proprietà di altri partner, Audience Manager ha aggiunto un requisito di mappatura tra l’ID partner (PID) e le origini dati (DPID) di proprietà di altri partner. Ulteriori informazioni su PID e DPID sono disponibili nell&#39;[indice degli ID di Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/ids-in-aam.html).
 

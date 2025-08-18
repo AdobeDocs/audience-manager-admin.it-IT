@@ -47,7 +47,7 @@ Utilizzare la pagina [!UICONTROL Servers] dello strumento di amministrazione di 
    >[!NOTE]
    >
    >Durante la configurazione dell’autenticazione della chiave SSH, assicurati di generare sempre le chiavi pubbliche e private solo in formato OpenSSH.
-   1. Generare la coppia di chiavi pubblica/privata da qualsiasi computer [!DNL Linux] o [!DNL Mac].
-   1. Assegnare la **chiave pubblica** al client per l&#39;aggiornamento nel server [!DNL SFTP]. Devono includere tutto il testo della chiave pubblica sul server, inclusi `-----BEGIN RSA PRIVATE KEY-----` e `-----END RSA PRIVATE KEY-----`. In cambio, devono fornire il nome utente con cui stanno installando la chiave.
-   1. Aggiorna il campo del nome utente con quello fornito dal client e il campo della chiave con la **chiave privata**.
+   >1. Generare la coppia di chiavi pubblica/privata da qualsiasi computer [!DNL Linux] o [!DNL Mac].
+   >1. Assegnare la **chiave pubblica** al client per l&#39;aggiornamento nel server [!DNL SFTP]. Devono includere tutto il testo della chiave pubblica sul server, inclusi `-----BEGIN RSA PRIVATE KEY-----` e `-----END RSA PRIVATE KEY-----`. In cambio, devono fornire il nome utente con cui stanno installando la chiave.
+   >1. Aggiorna il campo del nome utente con quello fornito dal client e il campo della chiave con la **chiave privata**.
 1. Fare clic su **[!UICONTROL Create]** se si sta creando un nuovo server oppure fare clic su **[!UICONTROL Update]** se si sta modificando un server esistente.
