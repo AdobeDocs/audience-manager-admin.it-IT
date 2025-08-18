@@ -1,5 +1,5 @@
 ---
-description: Utilizzare la pagina Server dello strumento di amministrazione Audience Manager per creare un nuovo server HTTP o per modificare un server esistente.
+description: Utilizzare la pagina Server dello strumento di amministrazione di Audience Manager per creare un nuovo server HTTP o per modificare un server esistente.
 seo-description: Use the Servers page in the Audience Manager Admin tool to create a new HTTP server or to edit an existing server.
 seo-title: Create or Edit an HTTP Server
 title: Creare o modificare un server HTTP
@@ -14,7 +14,7 @@ ht-degree: 2%
 
 # Creare o modificare un server HTTP {#create-or-edit-an-http-server}
 
-Utilizzare la pagina [!UICONTROL Servers] nello strumento di amministrazione Audience Manager per creare un nuovo server HTTP o per modificare un server esistente.
+Utilizzare la pagina [!UICONTROL Servers] nello strumento di amministrazione di Audience Manager per creare un nuovo server HTTP o per modificare un server esistente.
 
 >[!NOTE]
 >
@@ -50,7 +50,7 @@ Utilizzare la pagina [!UICONTROL Servers] nello strumento di amministrazione Aud
 
    >[!NOTE]
    >
-   >Se desideri abilitare l&#39;autenticazione [OAuth 2.0 per i trasferimenti di dati in tempo reale](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/receiving-audience-data/real-time-outbound-transfers/oauth-in-outbound-transfers.html?lang=it) per un partner, compila i campi come nella tabella seguente. I campi in *corsivo* devono essere compilati esattamente come nella tabella.
+   >Se desideri abilitare l&#39;autenticazione [OAuth 2.0 per i trasferimenti di dati in tempo reale](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/receiving-audience-data/real-time-outbound-transfers/oauth-in-outbound-transfers.html?lang=en) per un partner, compila i campi come nella tabella seguente. I campi in *corsivo* devono essere compilati esattamente come nella tabella.
 
    | Nome | Valore |
    |---|---|

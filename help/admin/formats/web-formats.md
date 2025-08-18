@@ -30,12 +30,12 @@ Per un elenco ed esempi di alcune combinazioni di macro comunemente utilizzate, 
   <tr> 
    <td colname="col1"> <p> <code>AAM_UUID</code> </p> </td> 
    <td colname="col2"> <p> <code>GET</code> </p> </td> 
-   <td colname="col3"> <p> <span class="keyword"> ID Audience Manager </span>. </p> </td> 
+   <td colname="col3"> <p> ID <span class="keyword"> di Audience Manager </span>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>DP_UUID</code> </p> </td> 
    <td colname="col2"> <p> <code>GET</code> </p> </td> 
-   <td colname="col3"> <p>ID utente univoco del partner dati. Questa macro restituisce l'ID assegnato a un utente se il suo ID è già stato sincronizzato con un ID dispositivo </span> di Audience Manager <span class="keyword">. </p> </td> 
+   <td colname="col3"> <p>ID utente univoco del partner dati. Questa macro restituisce l'ID assegnato a un utente se il suo ID è già stato sincronizzato con un ID dispositivo <span class="keyword"> di Audience Manager </span>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>DPID</code> </p> </td> 
@@ -50,7 +50,7 @@ Per un elenco ed esempi di alcune combinazioni di macro comunemente utilizzate, 
   <tr> 
    <td colname="col1"> <p> <code>GENERATION_TIME</code> </p> </td> 
    <td colname="col2"> <p> <code>GET, POST</code> </p> </td> 
-   <td colname="col3"> <p>Timestamp Unix UTC. Un timestamp interno, rappresenta il momento in cui all'AAM è stato notificato di pubblicare la destinazione <span class="wintitle"> S2S </span> ai nostri partner. </p> </td> 
+   <td colname="col3"> <p>Timestamp Unix UTC. Un timestamp interno, rappresenta il momento in cui ad AAM è stato notificato di pubblicare la destinazione <span class="wintitle"> S2S </span> sui nostri partner. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>IP</code> </p> </td> 
@@ -60,7 +60,7 @@ Per un elenco ed esempi di alcune combinazioni di macro comunemente utilizzate, 
     <tr> 
    <td colname="col1"> <p> <code>MCID</code> </p> </td> 
    <td colname="col2"> <p> <code>GET</code> </p> </td> 
-   <td colname="col3"> <p>ID Experience Cloud. (MCID sta per Marketing Cloud, che è il nome legacy dell’Experience Cloud) </p> </td> 
+   <td colname="col3"> <p>ID Experience Cloud. (MCID sta per Marketing Cloud, che è il nome legacy di Experience Cloud) </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>NUM_REMOVED_SEGMENTS</code> </p> </td> 
@@ -90,7 +90,7 @@ Per un elenco ed esempi di alcune combinazioni di macro comunemente utilizzate, 
   <tr> 
    <td colname="col1"> <p> <code>REGION_ID_LIST</code> </p> </td> 
    <td colname="col2"> <p> <code>GET</code> </p> </td> 
-   <td colname="col3"> <p>L'area DCS di Audience Manager </a> in cui ha avuto origine l'attività <a href="https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-regions.html?lang=it">.</p> </td> 
+   <td colname="col3"> <p>L'area DCS <a href="https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-regions.html?lang=en"> di Audience Manager </a> da cui ha avuto origine l'attività.</p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>REMOVED_SEGMENT_LIST</code> </p> </td> 
@@ -159,7 +159,7 @@ Per un elenco ed esempi di alcune combinazioni di macro comunemente utilizzate, 
   <tr> 
    <td colname="col1"> <p> <code>USER_LIST</code> </p> </td> 
    <td colname="col2"> <p> <code>POST</code> </p> </td> 
-   <td colname="col3"> <p>Elenco di <span class="keyword"> ID utente Audience Manager </span>. Puoi anche restituire campi specifici che includono: </p> 
+   <td colname="col3"> <p>Elenco di <span class="keyword"> ID utente di Audience Manager </span>. Puoi anche restituire campi specifici che includono: </p> 
     <ul id="ul_B6857D809FDC46749B7E745BD8C45F8E"> 
      <li id="li_F31CD82D16ED41FD82518141D90B5B35"> <code>user.aamUuid</code> </li> 
      <li id="li_623FA758C84D4A2D9B25C7FBE90F62B7"> <code>user.dpUuid</code> </li> 

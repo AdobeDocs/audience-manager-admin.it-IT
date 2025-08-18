@@ -1,5 +1,5 @@
 ---
-description: Utilizzare la pagina Server di Audience Manager Admin Tool per creare un nuovo server S3 o per modificare un server esistente.
+description: Utilizzare la pagina Server dello strumento di amministrazione di Audience Manager per creare un nuovo server S3 o per modificare un server esistente.
 seo-description: Use the Servers page in the Audience Manager Admin tool to create a new S3 server or to edit an existing server.
 seo-title: Create or Edit an S3 Server
 title: Creare o modificare un server S3
@@ -14,7 +14,7 @@ ht-degree: 2%
 
 # Creare o modificare un server S3 {#create-or-edit-an-s-server}
 
-Utilizzare la pagina [!UICONTROL Servers] nello strumento di amministrazione Audience Manager per creare un nuovo server [!DNL S3] o per modificare un server esistente.
+Utilizzare la pagina [!UICONTROL Servers] nello strumento di amministrazione di Audience Manager per creare un nuovo server [!DNL S3] o per modificare un server esistente.
 
 >[!NOTE]
 >
@@ -26,7 +26,7 @@ Utilizzare la pagina [!UICONTROL Servers] nello strumento di amministrazione Aud
 
    >[!NOTE]
    >
-   >È consigliabile utilizzare [!DNL Amazon S3] come metodo per ottenere file da e consegnare file ai partner. [!DNL Amazon S3] fornisce una semplice interfaccia per i servizi Web che può essere utilizzata per archiviare e recuperare qualsiasi quantità di dati, in qualsiasi momento, da qualsiasi punto del Web. Per ulteriori informazioni, vedere [About Amazon S3](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/amazon-s3.html?lang=it) in *Audience Manager User Guide*.
+   >È consigliabile utilizzare [!DNL Amazon S3] come metodo per ottenere file da e consegnare file ai partner. [!DNL Amazon S3] fornisce una semplice interfaccia per i servizi Web che può essere utilizzata per archiviare e recuperare qualsiasi quantità di dati, in qualsiasi momento, da qualsiasi punto del Web. Per ulteriori informazioni, vedere [Informazioni su Amazon S3](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/amazon-s3.html) nella *Guida utente di Audience Manager*.
 
 1. Compila i campi:
 

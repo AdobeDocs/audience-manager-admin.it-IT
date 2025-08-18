@@ -18,9 +18,9 @@ Accedi a Adobe Audience Manager Admin Tool con il browser Web. Lo strumento di a
 
 >[!IMPORTANT]
 >
-> Il pubblico per questo archivio della documentazione è composto da dipendenti interni agli Adobi. Se sei un cliente Audience Manager, passa alla [panoramica della guida Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=it)
+> Il pubblico per questo archivio della documentazione è composto da dipendenti interni ad Adobe. Se sei un cliente Audience Manager, passa alla [panoramica della guida Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html)
 
 <!-- t_login.xml -->
 
-1. Accedere allo strumento di Audience Manager [!DNL Admin] individuando il seguente [!DNL URL]: [https://admin.demdex.com/](https://admin.demdex.com/).
+1. Accedere allo strumento Audience Manager [!DNL Admin] individuando il seguente [!DNL URL]: [https://admin.demdex.com/](https://admin.demdex.com/).
 1. Selezionare il metodo di verifica preferito nell&#39;elenco a discesa e fare clic su **[!UICONTROL Verify]**.

@@ -1,5 +1,5 @@
 ---
-description: Utilizza la pagina Società per visualizzare un elenco di società nella configurazione dell’Audience Manager. Puoi modificare o eliminare aziende esistenti o crearne di nuove, purché siano stati assegnati i ruoli utente appropriati.
+description: Utilizza la pagina Società per visualizzare un elenco delle società nella configurazione di Audience Manager. Puoi modificare o eliminare aziende esistenti o crearne di nuove, purché siano stati assegnati i ruoli utente appropriati.
 seo-description: Use the Companies page to view a list of companies in your Audience Manager configuration. You can edit or delete existing companies or create new companies, providing that you have the appropriate user roles assigned.
 seo-title: Companies
 title: aziende;
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 # aziende; {#companies}
 
-Utilizzare la pagina [!UICONTROL Companies] per visualizzare un elenco di aziende nella configurazione dell&#39;Audience Manager. Puoi modificare o eliminare aziende esistenti o crearne di nuove, purché siano stati assegnati i ruoli utente appropriati.
+Utilizzare la pagina [!UICONTROL Companies] per visualizzare un elenco di aziende nella configurazione Audience Manager. Puoi modificare o eliminare aziende esistenti o crearne di nuove, purché siano stati assegnati i ruoli utente appropriati.
 
 ![](assets/companies.png)
 

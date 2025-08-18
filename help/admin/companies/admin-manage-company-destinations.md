@@ -1,5 +1,5 @@
 ---
-description: Crea, modifica ed elimina destinazioni Audienci Manager.
+description: Crea, modifica ed elimina destinazioni Audience Manager.
 seo-description: Create, edit, and delete Audience Manager destinations.
 seo-title: Manage Company Destinations
 title: Gestire le destinazioni aziendali
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 # Gestire le destinazioni aziendali {#manage-company-destinations}
 
-Crea, modifica ed elimina destinazioni Audienci Manager.
+Crea, modifica ed elimina destinazioni Audience Manager.
 
 <!-- t_company_destinations.xml -->
 
-Per informazioni dettagliate, consulta [Destinazioni](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html?lang=it) nella *Guida utente di Audience Manager*.
+Per informazioni dettagliate, consulta [Destinazioni](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html) nella *Guida utente di Audience Manager*.
 
 ## Creare o modificare le destinazioni aziendali {#create-edit-company-destinations}
 
@@ -26,7 +26,7 @@ Scorri le sezioni per istruzioni dettagliate su come creare nuove destinazioni [
 
 <!-- create-edit-company-destinations.xml -->
 
-Visita la [pagina di integrazione dei partner di Experience Cloud](https://wiki.corp.adobe.com/x/mPIMPw) prima di configurare le destinazioni. La pagina contiene le informazioni specifiche da compilare per ogni integrazione partner [!DNL Audience Manager].
+Visita la [pagina di integrazione dei partner Experience Cloud](https://wiki.corp.adobe.com/x/mPIMPw) prima di configurare le destinazioni. La pagina contiene le informazioni specifiche da compilare per ogni integrazione partner [!DNL Audience Manager].
 
 Se il client desidera utilizzare [!DNL Adobe Media Optimizer] come destinazione in [!DNL Audience Manager] , è necessario configurarlo in [!DNL Adobe Media Optimizer].
 
@@ -56,9 +56,9 @@ Questo ID viene utilizzato come ID sorgente dati principale. Questo determina gl
 
 >[!NOTE]
 >
->Per il tipo di destinazione [!UICONTROL Bulk ID], non è possibile utilizzare l&#39;ID [!UICONTROL User ID] di tipo [!DNL Audience Manager] o [!DNL Adobe Experience Cloud].
+>Per il tipo di destinazione [!UICONTROL Bulk ID], non è possibile utilizzare l&#39;ID [!DNL Audience Manager] di tipo [!UICONTROL User ID] o [!DNL Adobe Experience Cloud].
 
-Se l&#39;ID dell&#39;origine dati ( [!UICONTROL DPID]) non viene visualizzato nell&#39;elenco a discesa, è necessario selezionare la casella di controllo **[!UICONTROL Outbound]** a livello dell&#39;origine dati nella [pagina Impostazioni di Data Source](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/manage-datasources.html?lang=it).
+Se l&#39;ID dell&#39;origine dati ( [!UICONTROL DPID]) non viene visualizzato nell&#39;elenco a discesa, è necessario selezionare la casella di controllo **[!UICONTROL Outbound]** a livello dell&#39;origine dati nella [pagina Impostazioni di Data Source](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/manage-datasources.html).
 
 * **[!UICONTROL Target Data Source]:** (obbligatorio) Selezionare l&#39;origine dati desiderata per questa destinazione dall&#39;elenco a discesa. Questa impostazione consente l’etichettatura dei dati in uscita, che consente l’acquisizione in sistemi separati sul lato dei clienti.
 * **[!UICONTROL Foreign Account ID]:** Specificare l&#39;ID account esterno per questa destinazione. Si tratta del valore di identificazione nel sistema del destinatario per questi dati in uscita.

@@ -1,5 +1,5 @@
 ---
-description: Utilizza la pagina Client OAuth2 per visualizzare un elenco di client OAuth2 nella configurazione dell'Audience Manager. È possibile modificare o eliminare i client esistenti o crearne di nuovi, purché siano stati assegnati i ruoli utente appropriati.
+description: Utilizza la pagina Client OAuth2 per visualizzare un elenco di client OAuth2 nella configurazione di Audience Manager. È possibile modificare o eliminare i client esistenti o crearne di nuovi, purché siano stati assegnati i ruoli utente appropriati.
 seo-description: Use the OAuth2 Clients page to view a list of OAuth2 clients in your Audience Manager configuration. You can edit or delete existing clients or create new clients, providing that you have the appropriate user roles assigned.
 seo-title: OAuth2 Clients
 title: Client OAuth2
@@ -22,7 +22,7 @@ Utilizzare la pagina [!UICONTROL OAuth2 Clients] per visualizzare un elenco di [
 
 >[!NOTE]
 >
->Assicurati che il cliente legga la documentazione di [OAuth2](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/rest-apis/aam-api-getting-started.html?lang=it#oauth) nella Guida utente di Audience Manager.
+>Assicurati che il cliente legga la documentazione di [OAuth2](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/rest-apis/aam-api-getting-started.html#oauth) nella Guida utente di Audience Manager.
 
 [!DNL OAuth2] è uno standard aperto per l&#39;autorizzazione a fornire accesso delegato protetto alle risorse [!DNL Audience Manager] per conto di un proprietario di risorse.
 
@@ -36,7 +36,7 @@ Utilizzare la casella [!UICONTROL Search] o i controlli di impaginazione nella p
 
 <!-- t_create_edit_auth.xml -->
 
-Utilizzare la pagina [!UICONTROL OAuth2 Clients] nello strumento [!UICONTROL Admin] di Audience Manager per creare un nuovo client [!UICONTROL Oauth2] o per modificare un client esistente.
+Utilizzare la pagina [!UICONTROL OAuth2 Clients] nello strumento Audience Manager [!UICONTROL Admin] per creare un nuovo client [!UICONTROL Oauth2] o per modificare un client esistente.
 
 1. Per creare un nuovo client [!UICONTROL OAuth2], fare clic su **[!UICONTROL OAuth2 Clients]** > **[!UICONTROL Add OAuth2 Client]**. Per modificare un client [!UICONTROL OAuth2] esistente, fare clic sul client desiderato nella colonna **[!UICONTROL Client ID]**.
 1. Specificare il nome desiderato per il client [!UICONTROL OAuth2]. Tieni presente che questo è un nome solo per il record.

@@ -1,5 +1,5 @@
 ---
-description: Utilizzare la pagina Server di Audience Manager Admin Tool per eliminare un server esistente.
+description: Utilizza la pagina Server nello strumento di amministrazione di Audience Manager per eliminare un server esistente.
 seo-description: Use the Servers page in the Audience Manager Admin tool to delete an existing server.
 seo-title: Delete a Server
 title: Eliminare un server
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Eliminare un server {#delete-a-server}
 
-Utilizzare la pagina [!UICONTROL Servers] nello strumento di amministrazione Audience Manager per eliminare un server esistente.
+Utilizzare la pagina [!UICONTROL Servers] nello strumento di amministrazione di Audience Manager per eliminare un server esistente.
 
 <!-- t_delete_server.xml -->
 

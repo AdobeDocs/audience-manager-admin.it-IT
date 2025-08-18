@@ -1,5 +1,5 @@
 ---
-description: La pagina Formati dello strumento di amministrazione Audience Manager consente di creare un nuovo formato o di modificarne uno esistente.
+description: Utilizza la pagina Formati dello strumento di amministrazione di Audience Manager per creare un nuovo formato o per modificare un formato esistente.
 seo-description: Use the Formats page in the Audience Manager Admin tool to create a new format or to edit an existing format.
 seo-title: Create or Edit a Format
 title: Creare o modificare un formato
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Creare o modificare un formato {#create-or-edit-a-format}
 
-Utilizzare la pagina [!UICONTROL Formats] nello strumento di amministrazione Audience Manager per creare un nuovo formato o per modificare un formato esistente.
+Utilizzare la pagina [!UICONTROL Formats] nello strumento di amministrazione di Audience Manager per creare un nuovo formato o per modificare un formato esistente.
 
 <!-- t_create_format.xml -->
 
@@ -43,7 +43,7 @@ Utilizzare la pagina [!UICONTROL Formats] nello strumento di amministrazione Aud
    * **[!UICONTROL Data Row]:** Specificare il testo visualizzato in ogni riga in uscita del file.
    * **[!UICONTROL Maximum File Size (In MB)]:** Specificare la dimensione massima del file per i file di trasferimento dati. I file compressi devono essere inferiori a 100 MB. Non esiste alcun limite alla dimensione del file non compresso.
    * **[!UICONTROL Compression]:** Seleziona il tipo di compressione desiderato: gz o zip per i file di dati. Per la consegna a [!UICONTROL AWS S3], è necessario utilizzare file .gz o non compressi.
-   * **[!UICONTROL .info Receipt]:** Specifica la generazione di un file di controllo del trasferimento ([!DNL .info]). Il file [!DNL .info] fornisce informazioni sui metadati relativi ai trasferimenti di file in modo che i partner possano verificare che i trasferimenti di file gestiti da Audience Manager siano corretti. Per ulteriori informazioni, vedere [Transfer-Control Files for Log File Transfers](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/receiving-audience-data/batch-outbound-data-transfers/transfer-control-files.html?lang=it).
+   * **[!UICONTROL .info Receipt]:** Specifica la generazione di un file di controllo del trasferimento ([!DNL .info]). Il file [!DNL .info] fornisce informazioni sui metadati relativi ai trasferimenti di file in modo che i partner possano verificare che i trasferimenti di file siano stati gestiti correttamente da Audience Manager. Per ulteriori informazioni, vedere [Transfer-Control Files for Log File Transfers](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/receiving-audience-data/batch-outbound-data-transfers/transfer-control-files.html?lang=en).
    * **[!UICONTROL MD5 Checksum Receipt]:** Specifica che viene generata una ricevuta di checksum [!DNL MD5]. La ricevuta di checksum di [!DNL MD5] in modo che i partner possano verificare che Audience Manager abbia gestito correttamente il trasferimento completo.
 
 1. (Condizionale) Se hai scelto **[!UICONTROL HTTP]**, compila i campi:

@@ -1,5 +1,5 @@
 ---
-description: Creazione di nuovi utenti Audience Manager o modifica ed eliminazione di utenti esistenti.
+description: Crea nuovi utenti Audience Manager o modifica ed elimina utenti esistenti.
 seo-description: Create new Audience Manager users or edit and delete existing users.
 seo-title: Manage Company Users
 title: Gestire gli utenti aziendali
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 # Gestire gli utenti aziendali {#manage-company-users}
 
-Creazione di nuovi utenti Audience Manager o modifica ed eliminazione di utenti esistenti.
+Crea nuovi utenti Audience Manager o modifica ed elimina utenti esistenti.
 
 <!-- t_manage_company_users.xml -->
 
@@ -30,13 +30,13 @@ Creazione di nuovi utenti Audience Manager o modifica ed eliminazione di utenti 
 
    * **[!UICONTROL First Name]**: (obbligatorio) specificare il nome dell&#39;utente.
    * **[!UICONTROL Last Name]**: (obbligatorio) specificare il cognome dell&#39;utente.
-   * **[!UICONTROL Username]**: (obbligatorio) specifica il nome utente Audience Manager dell&#39;utente. I nomi utente devono essere univoci.
+   * **[!UICONTROL Username]**: (obbligatorio) specifica il nome utente di Audience Manager dell&#39;utente. I nomi utente devono essere univoci.
    * **[!UICONTROL Email Address]**: (obbligatorio) specificare l&#39;indirizzo e-mail dell&#39;utente.
    * **[!UICONTROL Phone Number]**: specificare il numero di telefono dell&#39;utente.
-   * **[!UICONTROL IMS ID]**: [!UICONTROL Identity Management System ID] dell&#39;utente. Questo ID consente all’utente di collegarsi a Adobi di soluzioni per Adobe Experience Cloud.
-   * **[!UICONTROL Is Admin]**: rendere questo utente un Audience Manager utente amministrativo. Un amministratore dispone di tutti i ruoli utente Audienci Manager per questo partner.
+   * **[!UICONTROL IMS ID]**: [!UICONTROL Identity Management System ID] dell&#39;utente. Questo ID consente all’utente di collegarsi alle soluzioni Adobe in Adobe Experience Cloud.
+   * **[!UICONTROL Is Admin]**: imposta l&#39;utente come utente amministrativo di Audience Manager. Un amministratore dispone di tutti i ruoli utente di Audience Manager per questo partner.
    * **[!UICONTROL Status]**: durante la creazione di un nuovo utente, questo campo viene inizialmente visualizzato come **[!UICONTROL Pending]** finché l&#39;utente non effettua l&#39;accesso e reimposta la password temporanea. Se stai modificando un utente esistente, puoi scegliere tra i seguenti stati:
-      * **[!UICONTROL Active]**: specifica che questo utente è un utente Audience Manager attivo.
+      * **[!UICONTROL Active]**: specifica che l&#39;utente è un utente Audience Manager attivo.
       * **[!UICONTROL Deactivated]**: specifica che l&#39;utente è un utente Audience Manager disattivato.
       * **[!UICONTROL Expired]**: specifica che l&#39;utente è scaduto.
       * **[!UICONTROL Locked Out]**: specifica che l&#39;utente è un utente bloccato.
