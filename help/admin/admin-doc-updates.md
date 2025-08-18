@@ -16,7 +16,7 @@ ht-degree: 94%
 
 Tutti gli aggiornamenti (informazioni aggiunte, eliminate e corrette) della Guida per l’amministrazione di Audience Manager, ordinati per data.
 
-Per informazioni sulle versioni con nuove funzioni, correzioni di bug e miglioramenti, consulta le [note sulla versione di Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en). Per [!DNL Audience Manager] modifiche alla documentazione, vedi [Aggiornamenti alla documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/documentation-updates/docs-2019.html?lang=en).
+Per informazioni sulle versioni con nuove funzioni, correzioni di bug e miglioramenti, consulta le [note sulla versione di Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=it). Per [!DNL Audience Manager] modifiche alla documentazione, vedi [Aggiornamenti alla documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/documentation-updates/docs-2019.html?lang=it).
 
 ## Aggiornamenti alla documentazione di AAM 2019 {#aam-2019-docs-updates}
 
@@ -100,7 +100,7 @@ Per informazioni sulle versioni con nuove funzioni, correzioni di bug e migliora
   </tr> 
   <tr> 
    <td colname="col1"> <p><a href="admin-oauth2/aam-admin-api-requirements.md#concept_A7FAC9443CF34974A873E6B787616421"> Raccomandazioni e requisiti per l’utilizzo delle API</a> </p> </td> 
-   <td colname="col2"> <p>Nuova documentazione che descrive alcuni requisiti e raccomandazioni utili da trasmettere ai clienti. Queste informazioni sono duplicate nella documentazione pubblica con lo stesso titolo e con modifiche per un pubblico di lettori diverso. Vedi <a href="https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/rest-apis/aam-api-getting-started.html?lang=en#api-requirements-recommendations" format="https" scope="external">Raccomandazioni e requisiti per l’utilizzo delle API</a> nella documentazione pubblica. </p> </td> 
+   <td colname="col2"> <p>Nuova documentazione che descrive alcuni requisiti e raccomandazioni utili da trasmettere ai clienti. Queste informazioni sono duplicate nella documentazione pubblica con lo stesso titolo e con modifiche per un pubblico di lettori diverso. Vedi <a href="https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/rest-apis/aam-api-getting-started.html?lang=it#api-requirements-recommendations" format="https" scope="external">Raccomandazioni e requisiti per l’utilizzo delle API</a> nella documentazione pubblica. </p> </td> 
   </tr> 
  </tbody> 
 </table>
