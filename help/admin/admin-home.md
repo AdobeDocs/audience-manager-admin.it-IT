@@ -38,7 +38,7 @@ Lo strumento di amministrazione di Audience Manager consente di aggiungere e con
      <li id="li_6AD053625237446FB9B581772896F64F">Per gli annunci precedenti, vedi le <a href="https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=it" format="https" scope="external">note sulle versioni precedenti</a>. </li> 
     </ul> <p class="head"> <b>Risorse di Experience Cloud</b> </p> 
     <ul id="ul_F8DE07F1ADBC411E894751F927BB1477"> 
-     <li id="li_09B0F2E487CA4C55A723ACB5901C7B49"><a href="https://business.adobe.com/products/marketing-cloud/main.html" format="http" scope="external"> Adobe Experience Cloud</a> </li> 
+     <li id="li_09B0F2E487CA4C55A723ACB5901C7B49"><a href="https://business.adobe.com/it/products/marketing-cloud/main.html" format="http" scope="external"> Adobe Experience Cloud</a> </li> 
      <li id="li_B89CEA08B4954C6ABA2BBDA803A88427"> <a href="https://helpx.adobe.com/it/support/social.html" format="http" scope="external"> Community Adobe Social</a> </li> 
      <li id="li_4F16686C311743C484013D84971EEBD3"> <a href="https://helpx.adobe.com/it/learning.html?promoid=KAUDK" format="https" scope="external"> Formazione e tutorial di Adobe</a> </li> 
      <li id="li_32581A0A26CB4F43833D607221154188"><a href="https://www.adobe.io" format="https" scope="external"> Developer Connection</a> </li> 
