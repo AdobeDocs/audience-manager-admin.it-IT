@@ -5,13 +5,13 @@ feature-set: Audience Manager
 landing-page-name: audience-manager
 landing-page-breadcrumb-title: Audience Manager
 getting-started-title: Getting Started
-git-repo: https://github.com/AdobeDocs/audience-manager-admin.it-IT
+git-repo: https://git.corp.adobe.com/AdobeDocs/audience-manager-admin.en
 index: false
 hide: true
-source-git-commit: dcbc5994cd9b9cce18e8f1f59f3be6794eacdb76
+source-git-commit: 015457f574638c3ba2cfc11f8780e5af6111d89a
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 2%
+source-wordcount: '126'
+ht-degree: 0%
 
 ---
 
@@ -27,5 +27,5 @@ Il file metadata.md include metadati a livello di repository che passano attrave
 | solution-icon | Visualizza l’icona della soluzione accanto al titolo della soluzione. Non ancora implementato |
 | getting-started-url | Collegamento alla pagina della guida introduttiva helpx |
 | tutorials-url | Collegamento alle esercitazioni video: esercitazioni helpx o KT |
-| mini-toc-levels | Determina il numero di livelli di intestazione visualizzati nella barra a destra. Il valore predefinito è 2 |
+| mini-toc-levels | Determina il numero di livelli di intestazione visualizzati nella barra a destra. il valore predefinito è 2 |
 | git-repo | Specifica la posizione dell’archivio principale per uso interno |
