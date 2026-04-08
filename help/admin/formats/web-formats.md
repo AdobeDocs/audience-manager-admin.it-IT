@@ -93,7 +93,7 @@ Per un elenco ed esempi di alcune combinazioni di macro comunemente utilizzate, 
   <tr> 
    <td colname="col1"> <p> <code>REGION_ID_LIST</code> </p> </td> 
    <td colname="col2"> <p> <code>GET</code> </p> </td> 
-   <td colname="col3"> <p>L'area DCS </a> di Audience Manager <a href="https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-regions.html?lang=en"> da cui ha avuto origine l'attività.</p> </td> 
+   <td colname="col3"> <p>L'area DCS </a> di Audience Manager <a href="https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-regions.html?lang=it"> da cui ha avuto origine l'attività.</p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>REMOVED_SEGMENT_LIST</code> </p> </td> 

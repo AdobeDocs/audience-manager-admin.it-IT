@@ -57,7 +57,7 @@ Utilizzare la pagina [!UICONTROL Servers] nello strumento di amministrazione di 
 
    >[!NOTE]
    >
-   >Se desideri abilitare l&#39;autenticazione [OAuth 2.0 per i trasferimenti di dati in tempo reale](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/receiving-audience-data/real-time-outbound-transfers/oauth-in-outbound-transfers.html?lang=en) per un partner, compila i campi come nella tabella seguente. I campi in *corsivo* devono essere compilati esattamente come nella tabella.
+   >Se desideri abilitare l&#39;autenticazione [OAuth 2.0 per i trasferimenti di dati in tempo reale](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/receiving-audience-data/real-time-outbound-transfers/oauth-in-outbound-transfers.html?lang=it) per un partner, compila i campi come nella tabella seguente. I campi in *corsivo* devono essere compilati esattamente come nella tabella.
 
    | Nome | Valore |
    |---|---|
