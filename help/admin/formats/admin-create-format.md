@@ -5,9 +5,13 @@ seo-title: Create or Edit a Format
 title: Creare o modificare un formato
 uuid: ca1b1feb-bcd3-4a41-b1e8-80565f6c23ae
 exl-id: 3c97d1e9-8093-4181-a1fd-fb1816cdaa3d
-source-git-commit: 1f4dbf8f7b36e64c3015b98ef90b6726d0e7495a
+TQID: https://experienceleague.adobe.com/VMEOfWNeQ5CSWvWqZYdjNO4qyvFD5Iw1onpAdVRKgQQ
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2: id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: d2bed13a6ac7d38ae79b65d492b6de0ca6b6d488
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: 439
 ht-degree: 0%
 
 ---
@@ -43,7 +47,7 @@ Utilizzare la pagina [!UICONTROL Formats] nello strumento di amministrazione di 
    * **[!UICONTROL Data Row]:** Specificare il testo visualizzato in ogni riga in uscita del file.
    * **[!UICONTROL Maximum File Size (In MB)]:** Specificare la dimensione massima del file per i file di trasferimento dati. I file compressi devono essere inferiori a 100 MB. Non esiste alcun limite alla dimensione del file non compresso.
    * **[!UICONTROL Compression]:** Seleziona il tipo di compressione desiderato: gz o zip per i file di dati. Per la consegna a [!UICONTROL AWS S3], è necessario utilizzare file .gz o non compressi.
-   * **[!UICONTROL .info Receipt]:** Specifica la generazione di un file di controllo del trasferimento ([!DNL .info]). Il file [!DNL .info] fornisce informazioni sui metadati relativi ai trasferimenti di file in modo che i partner possano verificare che i trasferimenti di file siano stati gestiti correttamente da Audience Manager. Per ulteriori informazioni, vedere [Transfer-Control Files for Log File Transfers](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/receiving-audience-data/batch-outbound-data-transfers/transfer-control-files.html?lang=it).
+   * **[!UICONTROL .info Receipt]:** Specifica la generazione di un file di controllo del trasferimento ([!DNL .info]). Il file [!DNL .info] fornisce informazioni sui metadati relativi ai trasferimenti di file in modo che i partner possano verificare che i trasferimenti di file siano stati gestiti correttamente da Audience Manager. Per ulteriori informazioni, vedere [Transfer-Control Files for Log File Transfers](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/receiving-audience-data/batch-outbound-data-transfers/transfer-control-files.html?lang=en).
    * **[!UICONTROL MD5 Checksum Receipt]:** Specifica che viene generata una ricevuta di checksum [!DNL MD5]. La ricevuta di checksum di [!DNL MD5] in modo che i partner possano verificare che Audience Manager abbia gestito correttamente il trasferimento completo.
 
 1. (Condizionale) Se hai scelto **[!UICONTROL HTTP]**, compila i campi:

@@ -5,9 +5,11 @@ seo-title: Create or Edit an FTP Server
 title: Creare o modificare un server FTP
 uuid: 9273abb2-963d-4d83-bf5a-b3817f0b90e6
 exl-id: 9eae4ecf-ccde-483a-ae53-1cbac033d8d6
-source-git-commit: 92bf9b281c71e38d1bd5e0229f550a2124080b21
+TQID: https://experienceleague.adobe.com/vXm5k1APT6BVn0Ub7ntfDCnAdSfOWTLRo6ci-yK5cWk
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+source-git-commit: d2bed13a6ac7d38ae79b65d492b6de0ca6b6d488
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: 397
 ht-degree: 1%
 
 ---
@@ -26,7 +28,7 @@ Utilizzare la pagina [!UICONTROL Servers] dello strumento di amministrazione di 
 
    >[!NOTE]
    >
-   >Come best practice, si consiglia di utilizzare [!DNL Amazon S3] come metodo per ottenere file da e consegnarli ai partner. [!DNL Amazon S3] fornisce una semplice interfaccia per i servizi Web che può essere utilizzata per archiviare e recuperare qualsiasi quantità di dati, in qualsiasi momento, da qualsiasi punto del Web. Per ulteriori informazioni, vedere [Informazioni su Amazon S3](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/amazon-s3.html?lang=it) nella *Guida utente di Audience Manager*.
+   >Come best practice, si consiglia di utilizzare [!DNL Amazon S3] come metodo per ottenere file da e consegnarli ai partner. [!DNL Amazon S3] fornisce una semplice interfaccia per i servizi Web che può essere utilizzata per archiviare e recuperare qualsiasi quantità di dati, in qualsiasi momento, da qualsiasi punto del Web. Per ulteriori informazioni, vedere [Informazioni su Amazon S3](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/amazon-s3.html) nella *Guida utente di Audience Manager*.
 
 1. Compila i campi:
 

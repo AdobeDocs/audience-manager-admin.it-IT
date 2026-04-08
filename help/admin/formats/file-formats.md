@@ -5,9 +5,11 @@ seo-title: File Format Macros
 title: Macro per formati file
 uuid: f91c91b6-6581-4ed7-8d7f-f8532bd41df9
 exl-id: e686bc33-da3e-49a9-8c71-2bc6ca399bfb
-source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
+TQID: https://experienceleague.adobe.com/ATzqYmfRIVDeQ3DZpbcZkCP4Jjsapw9Nfyli1QFR8-o
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+source-git-commit: d2bed13a6ac7d38ae79b65d492b6de0ca6b6d488
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: 686
 ht-degree: 0%
 
 ---
@@ -105,7 +107,7 @@ Macro utilizzate solo nelle righe di dati. Per esempi, vedere [Esempi di macro p
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <code>CLOSE_CURLY_BRACKET</code> </p> </td> 
-   <td colname="col2"> <p>Inserisce una parentesi graffa chiusa <code>&rbrace;</code>. </p> </td> 
+   <td colname="col2"> <p>Inserisce una parentesi graffa chiusa <code>}</code>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>COMMA</code> </p> </td> 
@@ -113,7 +115,7 @@ Macro utilizzate solo nelle righe di dati. Per esempi, vedere [Esempi di macro p
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>DP_UUID</code> </p> </td> 
-   <td colname="col2"> <p> <span class="term"> Identificatore utente univoco partner dati </span>. Restituisce l'ID assegnato a un utente/visitatore del sito se tale ID è già stato sincronizzato con un ID dispositivo <span class="keyword"> di Audience Manager </span>. </p> <p>Se il DPID è 0, questa macro restituirà l'ID <span class="keyword"> di Audience Manager </span> invece dell'ID dell'utente. </p> </td> 
+   <td colname="col2"> <p> <span class="term"> Identificatore utente univoco partner dati </span>. Restituisce l'ID assegnato a un utente/visitatore del sito se tale ID è già stato sincronizzato con un ID dispositivo </span> di Audience Manager <span class="keyword">. </p> <p>Se il DPID è 0, questa macro restituirà l'ID </span> di Audience Manager <span class="keyword"> invece dell'ID dell'utente. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>DP_UUID_LIST</code> </p> </td> 
@@ -133,11 +135,11 @@ Macro utilizzate solo nelle righe di dati. Per esempi, vedere [Esempi di macro p
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>MCID</code> </p> </td> 
-   <td colname="col2"> <p> ID <span class="keyword"> Adobe Experience Cloud </span>. </p> </td> 
+   <td colname="col2"> <p> ID </span> Adobe Experience Cloud <span class="keyword">. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>OPEN_CURLY_BRACKET</code> </p> </td> 
-   <td colname="col2"> <p>Inserisce una parentesi graffa aperta <code>&lbrace;</code>. </p> </td> 
+   <td colname="col2"> <p>Inserisce una parentesi graffa aperta <code>{</code>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>OPT_OUT</code> </p> </td> 
@@ -153,7 +155,7 @@ Macro utilizzate solo nelle righe di dati. Per esempi, vedere [Esempi di macro p
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>PID</code> </p> </td> 
-   <td colname="col2"> <p>ID partner (PID). Il PID viene visualizzato nella scheda Profilo <span class="wintitle"> di </span> nell'interfaccia utente di amministrazione. </p> </td> 
+   <td colname="col2"> <p>ID partner (PID). Il PID viene visualizzato nella scheda Profilo </span> di <span class="wintitle"> nell'interfaccia utente di amministrazione. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>REMOVED_SEGMENT_LIST</code> </p> </td> 
@@ -186,7 +188,7 @@ Macro utilizzate solo nelle righe di dati. Per esempi, vedere [Esempi di macro p
      <li id="li_859E1F4F21D645519F150DC512B3EB1A"> <code>type</code>: tipi di caratteristiche identificati da un ID numerico. Questa variabile restituisce: 
       <ul id="ul_C9839266783D42CCADAAC3FEA33BE4D7"> 
        <li id="li_6996A218E3F04EC3BC70032559DD87FC"> <code>10</code> che identifica una caratteristica DPM (offline, onboarding da un processo in entrata). </li> 
-       <li id="li_831FF929BF50434C8804C13E5786DF79"> <code>3</code> che identifica una caratteristica basata su regole (in tempo reale; onboarding tramite il DCS <span class="wintitle"> di </span>). </li> 
+       <li id="li_831FF929BF50434C8804C13E5786DF79"> <code>3</code> che identifica una caratteristica basata su regole (in tempo reale; onboarding tramite il DCS </span> di <span class="wintitle">). </li> 
       </ul> </li> 
      <li id="li_E84D6BC80AEE4F10963C9882C4151ED4"> <code>traitId</code>: ID caratteristica. </li> 
      <li id="li_D30A849BA35248E6B9110FA3ADEFC332"> <code>lastRealized</code>: ultima volta che la caratteristica è stata realizzata. Timestamp Unix. </li> 
