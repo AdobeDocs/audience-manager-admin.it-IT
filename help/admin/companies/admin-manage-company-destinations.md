@@ -6,13 +6,11 @@ title: Gestire le destinazioni aziendali
 uuid: d9a6bfb1-7629-44e0-b7d7-ece44f65ea2b
 exl-id: a2e73613-07cd-4ab8-8c6e-be451ed50bfc
 TQID: https://experienceleague.adobe.com/-MWpMACN0bFPIRAWejD0-VV5nG8BGAukmV1QXxXal-E
-product_v2:
-  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
-feature_v2:
-  - id: c814092e-2730-45e8-a12d-e084529f52cb
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2: id: c814092e-2730-45e8-a12d-e084529f52cb
 source-git-commit: d2bed13a6ac7d38ae79b65d492b6de0ca6b6d488
 workflow-type: tm+mt
-source-wordcount: 1101
+source-wordcount: 1105
 ht-degree: 0%
 
 ---
@@ -23,7 +21,7 @@ Crea, modifica ed elimina destinazioni Audience Manager.
 
 <!-- t_company_destinations.xml -->
 
-Per informazioni dettagliate, consulta [Destinazioni](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html?lang=it) nella *Guida utente di Audience Manager*.
+Per informazioni dettagliate, consulta [Destinazioni](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html) nella *Guida utente di Audience Manager*.
 
 ## Creare o modificare le destinazioni aziendali {#create-edit-company-destinations}
 
@@ -48,13 +46,13 @@ Compila i campi nella finestra **[!UICONTROL Basic Settings]**.
 * **[!UICONTROL Name]:** (obbligatorio) Specificare il nome della destinazione.
 * **[!UICONTROL Description]:** Specificare informazioni descrittive su questa destinazione.
 * **[!UICONTROL Type]:** (obbligatorio) Selezionare il tipo di destinazione desiderato:
-   * **[!UICONTROL Bulk ID]**: sincronizza gli ID tra piattaforme diverse.
-   * **[!UICONTROL Bulk Trait]**: invia informazioni sulle caratteristiche in blocco a diverse piattaforme.
-   * **[!UICONTROL Bulk Segment]**: invia informazioni sui segmenti in blocco a piattaforme diverse.
-   * **[!UICONTROL S2S]**: utilizzare le destinazioni server-to-server per inviare dati in tempo reale e batch a piattaforme diverse.
+  * **[!UICONTROL Bulk ID]**: sincronizza gli ID tra piattaforme diverse.
+  * **[!UICONTROL Bulk Trait]**: invia informazioni sulle caratteristiche in blocco a diverse piattaforme.
+  * **[!UICONTROL Bulk Segment]**: invia informazioni sui segmenti in blocco a piattaforme diverse.
+  * **[!UICONTROL S2S]**: utilizzare le destinazioni server-to-server per inviare dati in tempo reale e batch a piattaforme diverse.
 * **[!UICONTROL Auto-Fill Destination Mapping]:** (solo [!UICONTROL S2S]) Selezionare un&#39;opzione:
-   * **[!UICONTROL Segment ID]:** Se selezioni questa impostazione, il mapping del valore di destinazione viene compilato con l&#39;ID segmento [!DNL Audience Manager].
-   * **[!UICONTROL Integration Code Value]:** Se si seleziona questa impostazione, il mapping del valore di destinazione viene compilato con il codice di integrazione del segmento [!DNL Audience Manager].
+  * **[!UICONTROL Segment ID]:** Se selezioni questa impostazione, il mapping del valore di destinazione viene compilato con l&#39;ID segmento [!DNL Audience Manager].
+  * **[!UICONTROL Integration Code Value]:** Se si seleziona questa impostazione, il mapping del valore di destinazione viene compilato con il codice di integrazione del segmento [!DNL Audience Manager].
 * **[!UICONTROL User ID Key]:** (obbligatorio) Selezionare la chiave ID utente desiderata per questa destinazione dall&#39;elenco a discesa.
 
 Questo ID viene utilizzato come ID sorgente dati principale. Questo determina gli ID utente da escludere nel file.
@@ -63,7 +61,7 @@ Questo ID viene utilizzato come ID sorgente dati principale. Questo determina gl
 >
 >Per il tipo di destinazione [!UICONTROL Bulk ID], non è possibile utilizzare l&#39;ID [!UICONTROL User ID] di tipo [!DNL Audience Manager] o [!DNL Adobe Experience Cloud].
 
-Se l&#39;ID dell&#39;origine dati ( [!UICONTROL DPID]) non viene visualizzato nell&#39;elenco a discesa, è necessario selezionare la casella di controllo **[!UICONTROL Outbound]** a livello dell&#39;origine dati nella [pagina Impostazioni di Data Source](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/manage-datasources.html?lang=it).
+Se l&#39;ID dell&#39;origine dati ( [!UICONTROL DPID]) non viene visualizzato nell&#39;elenco a discesa, è necessario selezionare la casella di controllo **[!UICONTROL Outbound]** a livello dell&#39;origine dati nella [pagina Impostazioni di Data Source](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/manage-datasources.html).
 
 * **[!UICONTROL Target Data Source]:** (obbligatorio) Selezionare l&#39;origine dati desiderata per questa destinazione dall&#39;elenco a discesa. Questa impostazione consente l’etichettatura dei dati in uscita, che consente l’acquisizione in sistemi separati sul lato dei clienti.
 * **[!UICONTROL Foreign Account ID]:** Specificare l&#39;ID account esterno per questa destinazione. Si tratta del valore di identificazione nel sistema del destinatario per questi dati in uscita.
@@ -85,9 +83,9 @@ Se stai creando una destinazione [!UICONTROL S2S], compila i campi seguenti:
 Per [!UICONTROL Bulk ID], [!UICONTROL Bulk Trait] o [!UICONTROL Bulk Segment] destinazioni, compila i campi seguenti:
 
 * **[!UICONTROL Protocol]**: (obbligatorio) selezionare il protocollo desiderato per questa destinazione dall&#39;elenco a discesa:
-   * **[!UICONTROL FTP]**
-   * **[!UICONTROL HTTP]**
-   * **[!UICONTROL S3]**
+  * **[!UICONTROL FTP]**
+  * **[!UICONTROL HTTP]**
+  * **[!UICONTROL S3]**
 * **[!UICONTROL Servers]**: (obbligatorio) selezionare il server desiderato per questa destinazione dall&#39;elenco a discesa.
 * **[!UICONTROL Format]**: (obbligatorio) selezionare il formato desiderato per la destinazione dall&#39;elenco a discesa [!DNL HTTP] o il tipo di file, a seconda del protocollo scelto in precedenza.
 * **[!UICONTROL Sync Type]**: (obbligatorio) selezionare il tipo di sincronizzazione desiderato per questa destinazione. Indica il livello di attività utente che i clienti desiderano includere negli ordini in uscita. Selezionare **[!UICONTROL Customer]** se i client sono interessati solo all&#39;analisi delle qualifiche dei segmenti dalle relative proprietà. Selezionare **[!UICONTROL Platform]** se si desidera includere le qualifiche dei segmenti da attività esterne al sito per tutti i clienti [!DNL Audience Manager].
